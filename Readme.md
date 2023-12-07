@@ -2,6 +2,10 @@
 
 A dataset sourced from the CDC website containing information on deaths from pneumonia and influenza in the United States for the years 2009-2019. 
 
+## Goal
+
+I want to explore trends in disease lethality and if we have improved prevention of death over the course of a decade.
+
 ## Format
 
 A dataframe with 32,605 observations on 10 variables.
@@ -10,7 +14,7 @@ A dataframe with 32,605 observations on 10 variables.
 Factor with three levels: state, region, and national.
 
 ### region
-Numeric, each region contains the following:
+Numeric, each region defined by the following:
 1 - Connecticut, Maine, Massachusetts, New Hampshire, Rhode Island, Vermont
 2 - New York, New Jersey, Puerto Rico, the Virgin Islands
 3 - Delaware, District of Columbia, Maryland, Pennsylvania, Virginia, West Virginia
