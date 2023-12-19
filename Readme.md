@@ -1,6 +1,6 @@
 ## Description
 
-A dataset sourced from the CDC website containing information on deaths from pneumonia and influenza in the United States for the years 2009-2019. 
+A dataset sourced from the CDC website containing information on deaths from pneumonia and influenza in the United States for the years 2009-2019 with an initial exploratory data analysis. 
 
 ## Goal
 
